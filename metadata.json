@@ -1,0 +1,8 @@
+{
+  "name": "건대 W | 건대 1등 호스트바 · 여성전용 프라이빗 룸",
+  "description": "건대 1등 여성전용 호스트바 W 공식 사이트. 건대입구역 2번출구 도보 5분, 철저한 비밀보장 럭셔리 단독룸, 50인 이상 엄선된 에이스 라인업, 서울 전지역 고급 세단 안심 픽업 및 24시간 실시간 예약 상담.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

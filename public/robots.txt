@@ -1,0 +1,22 @@
+# robots.txt for 건대 W (hoppa58.help)
+User-agent: Yeti
+Allow: /
+
+User-agent: NaverBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Daumoa
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://hoppa58.help/sitemap.xml
+
+
